@@ -6,6 +6,7 @@ project:
 website:
   title: "Lay Len Ching"
   navbar:
+    background: "#FFE5F6"
     left:
       - href: index.qmd
         text: Home
