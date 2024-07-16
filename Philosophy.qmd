@@ -1,0 +1,18 @@
+---
+title: "Essays"
+about: 
+  template: solana
+  links:
+    - text: The Desire for Intelligent Machinery
+      href: https://drive.google.com/file/d/12OeIViCIy4O_ECLJr3qQv7LlSGPVqVsE/view?usp=sharing
+      target: _blank
+    - text: The Philosophical Ramifications of Criminal Disenfranchisement
+      href: https://drive.google.com/file/d/1F2xWoK-0kw-3ocCig9XjVXGoF0zBKQC-/view?usp=sharing
+      target: _blank
+    - text: Environmental and Ethical Responsibilities
+      href: https://drive.google.com/file/d/1TyOQRqB8Sn84yZTLUPFhTBifEeugRwGg/view?usp=sharing
+      target: _blank
+    - text: The Paradox of Non-Interference
+      href: https://drive.google.com/file/d/1l7lvhYCpCbV87fhXcvZft2DSu_rFpjsC/view?usp=sharing
+      target: _blank
+---

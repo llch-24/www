@@ -1,0 +1,21 @@
+---
+title: "Lay Len Ching"
+about: 
+  template: jolla
+  image: assets/Headshot.png
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:laychingarias@gmail.com
+    - icon: github
+      text: GitHub
+      target: _blank
+      href: https://github.com/llch-24
+    - icon: linkedin
+      text: LinkedIn
+      target: _blank
+      href: https://www.linkedin.com/in/laylenching/
+      
+---
+
+I am a Senior at Carnegie Mellon University pursuing a BSc in Behavioral Economics and a BA in Philosophy. My goal is to contribute to meaningful change and reshape industries through evidence-based decision-making.

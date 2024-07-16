@@ -1,0 +1,18 @@
+---
+title: "Exploring the Impact of Mental Health Professional Density on Mental Health" 
+description: "Capstone project for UnitedHealth Group"
+date: July 26, 2024
+about:
+  template: solana
+  links: 
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/llch-24/Project3_MentalHealth
+    - icon: file
+      text: Poster
+      href: posterhere
+    - icon: pencil
+      text: Report
+      href: reporthere
+    
+---

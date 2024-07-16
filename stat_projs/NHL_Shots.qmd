@@ -1,0 +1,28 @@
+---
+title: "National Hockey League (NHL) Shooting" 
+description: "Final Project for 36-315: Statistical Graphics and Visualization"
+date: May 10, 2024
+about:
+  image: cover.jpg
+  template: solana
+  links: 
+    - text: Presentation
+      href: https://drive.google.com/file/d/18ZKDX8OBP3BdKB_Bq2sb56BdTNrcifuq/view?usp=sharing
+      target: _blank
+    - text: Report
+      href: https://drive.google.com/file/d/1dLDGTRbisQMIlzzzdEHuDfB4kDkfBmbd/view?usp=sharing
+      target: _blank
+    
+---
+
+In this project, we aimed to deepen our understand of the relationships between player performance, strategic decision-making, and environmental factors that influence goal-scoring in hockey. These insights have the potential to inform coaching practices, player development initiatives, decision-making within the sport, ultimately improving the competitiveness and excitement of hockey.
+
+We explored three research questions:
+
+1. How do NHL teams differ in their ability to convert shots into goals, and how does this variation in goal conversion rates correlate with shot accuracy and effectiveness across different game periods?
+
+2. How do NHL teams differ in their ability to convert shots into goals, and how does this variation in goal conversion rates correlate with shot accuracy and effectiveness across different game periods?
+
+3. Is there a "home-rink advantage" between home and away games for NHL teams, and to what extent, if any, does this effect exist?
+
+
