@@ -7,6 +7,7 @@ website:
   title: "Lay Len Ching"
   navbar:
     background: "#ffffff"
+    foreground: "#FFFFFF"
     left:
       - href: index.qmd
         text: Home
