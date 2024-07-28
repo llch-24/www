@@ -4,7 +4,7 @@
     "href": "analytics.html",
     "title": "Analytics",
     "section": "",
-    "text": "Exploring the Impact of Mental Health Professional Density on Mental Health—IN PROGRESS\n\n\n\n\n\nCapstone project for UnitedHealth Group\n\n\n\n\n\nJul 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nNational Hockey League (NHL) Shooting\n\n\n\n\n\nFinal Project for 36-315: Statistical Graphics and Visualization\n\n\n\n\n\nMay 10, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "Exploring the Impact of Mental Health Professional Density on Mental Health\n\n\n\n\n\nCapstone project for UnitedHealth Group\n\n\n\n\n\nJul 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nNational Hockey League (NHL) Shooting\n\n\n\n\n\nFinal Project for 36-315: Statistical Graphics and Visualization\n\n\n\n\n\nMay 10, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "econ_projs/Digital_Addiction/Digital_Addiction.html",
@@ -33,5 +33,12 @@
     "title": "Economics",
     "section": "",
     "text": "The Economics of Digital Addiction\n\n\n\n\n\nFinal project for the course 88-360: Behavioral Economics\n\n\n\n\n\nDec 1, 2023\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "stat_projs/SURE_Capstone/SURE_Capstone.html",
+    "href": "stat_projs/SURE_Capstone/SURE_Capstone.html",
+    "title": "Exploring the Impact of Mental Health Professional Density on Mental Health",
+    "section": "",
+    "text": "In this report, done in collaboration with the Summer Undergraduate Research Experience (SURE) program within Carnegie Mellon University’s Statistics & Data Science Department, we explored the catalysts driving the mental health crisis in the United States. Using county-level data from the University of Wisconsin Population Health Institute, we modelled a linear regression to find the variables which most affect mental health across the US."
   }
 ]
