@@ -21,6 +21,13 @@
     "text": "In this project, we aimed to deepen our understand of the relationships between player performance, strategic decision-making, and environmental factors that influence goal-scoring in hockey. These insights have the potential to inform coaching practices, player development initiatives, decision-making within the sport, ultimately improving the competitiveness and excitement of hockey.\nWe explored three research questions:\n\nHow do NHL teams differ in their ability to convert shots into goals, and how does this variation in goal conversion rates correlate with shot accuracy and effectiveness across different game periods?\nHow do NHL teams differ in their ability to convert shots into goals, and how does this variation in goal conversion rates correlate with shot accuracy and effectiveness across different game periods?\nIs there a “home-rink advantage” between home and away games for NHL teams, and to what extent, if any, does this effect exist?"
   },
   {
+    "objectID": "stat_projs/SURE_Capstone/SURE_Capstone.html",
+    "href": "stat_projs/SURE_Capstone/SURE_Capstone.html",
+    "title": "Exploring the Impact of Mental Health Professional Density on Mental Health",
+    "section": "",
+    "text": "In this report, done in collaboration with the Summer Undergraduate Research Experience (SURE) program within Carnegie Mellon University’s Statistics & Data Science Department, we explored the catalysts driving the mental health crisis in the United States. Using county-level data from the University of Wisconsin Population Health Institute, we modelled a linear regression to find the variables which most affect mental health across the US."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Lay Len Ching",
@@ -33,12 +40,5 @@
     "title": "Economics",
     "section": "",
     "text": "The Economics of Digital Addiction\n\n\n\n\n\nFinal project for the course 88-360: Behavioral Economics\n\n\n\n\n\nDec 1, 2023\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "stat_projs/SURE_Capstone/SURE_Capstone.html",
-    "href": "stat_projs/SURE_Capstone/SURE_Capstone.html",
-    "title": "Exploring the Impact of Mental Health Professional Density on Mental Health",
-    "section": "",
-    "text": "In this report, done in collaboration with the Summer Undergraduate Research Experience (SURE) program within Carnegie Mellon University’s Statistics & Data Science Department, we explored the catalysts driving the mental health crisis in the United States. Using county-level data from the University of Wisconsin Population Health Institute, we modelled a linear regression to find the variables which most affect mental health across the US."
   }
 ]
