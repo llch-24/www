@@ -1,6 +1,0 @@
----
-title: "Analytics"
-listing:
-  contents: stat_projs
----
-
