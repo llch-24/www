@@ -1,0 +1,35 @@
+project:
+  type: website
+  resources: assets
+  output-dir: docs
+
+website:
+  title: "Lay Len Ching"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: analytics.qmd
+        text: Analytics
+      - href: economics.qmd
+      - href: Philosophy.qmd
+        text: Philosophy
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/laylenching/
+        target: _blank
+      - icon: github
+        href: https://github.com/llch-24
+        target: _blank
+      - icon: file-earmark-person
+        href: https://drive.google.com/file/d/1ZpIdGJfpMruh3L6KRpuywV7A4orPMxJd/view?usp=sharing
+        target: _blank
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
