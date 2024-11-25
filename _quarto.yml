@@ -26,7 +26,7 @@ website:
         target: _blank
 format:
   html:
-    include-in-header: scripts.js
+    include-in-header: script.js
     theme: cosmo
     css: styles.css
     toc: true
