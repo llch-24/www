@@ -13,6 +13,6 @@ about:
       href: https://drive.google.com/file/d/1TyOQRqB8Sn84yZTLUPFhTBifEeugRwGg/view?usp=sharing
       target: _blank
     - text: The Paradox of Non-Interference
-      href: https://drive.google.com/file/d/1ZpIdGJfpMruh3L6KRpuywV7A4orPMxJd/view?usp=sharing
+      href: https://drive.google.com/file/d/1l7lvhYCpCbV87fhXcvZft2DSu_rFpjsC/view?usp=sharing
       target: _blank
 ---
