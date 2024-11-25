@@ -24,9 +24,9 @@ website:
       - icon: file-earmark-person
         href: https://drive.google.com/file/d/1ZpIdGJfpMruh3L6KRpuywV7A4orPMxJd/view?usp=sharing
         target: _blank
-
 format:
   html:
+    include-in-header: scripts.js
     theme: cosmo
     css: styles.css
     toc: true

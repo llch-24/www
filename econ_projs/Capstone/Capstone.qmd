@@ -1,0 +1,13 @@
+---
+title: "In Progress: Streamlining Permanent Housing Processes for Homeless Individuals (Pittsburgh DHS Consulting Project)" 
+description: "Capstone Project for B.S. in Behavioral Economics"
+date: December 2024
+about:
+  image: cover.jpg
+  template: solana
+  links: 
+    - text: Presentation
+      href: https://docs.google.com/presentation/d/1gMzWCnefeG7-1NiSP00ma74bXDW8Q9jIXeW1kt43Iic/edit?usp=sharing
+---
+
+This project focuses on streamlining the process of transitioning individuals from homeless shelters to permanent housing in collaboration with Pittsburgh DHS. Our team prototyped a logic-driven web interface to guide users to the appropriate housing programs based on their unique needs. We also designed an intake form to empower individuals to take greater control over their housing searches. Additionally, we conducted a survey and analysis to evaluate the effectiveness of joint versus separate program evaluations for improving program uptake and efficiency. This work aims to create a more user-centered and efficient housing support system.
